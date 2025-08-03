@@ -1,73 +1,55 @@
-<h1 align="center">📦 AOSP / IT Support Workspace</h1>
-<p align="center"><i>Builds, scripts, logs — all from the trenches of daily experimentation.</i></p>
+# aosp
+
+> a workspace for experiments, automation, and bare-metal digital craft.
+> anonymous, but not empty. this is where silence becomes syntax.
 
 ---
 
-## 🧭 What Is This?
+**Hi, I’m Hanafi Febriansyah.**  
+But this space isn’t about my name — it’s about _doing_, _breaking_, and _rebuilding_ things in silence.
 
-`workspace/` adalah tempat semua proses berlangsung: dari mempersiapkan environment build AOSP, nyusun tools CLI kecil, sampai log troubleshoot jaringan.
+This repository hosts the trail of experiments I’ve done around:
 
-Tanpa nama proyek. Tanpa gimmick.  
-Cuma hasil dari *learning by breaking*.
-
----
-
-## 🧪 What's Inside?
-
-📂 `aosp/` — repositori source dan tooling untuk build Android  
-📂 `scripts/` — shell, bash, powershell script untuk task harian  
-📂 `it-support/` — catatan troubleshooting real-world  
-📂 `docs/` — markdown log + riset kecil  
-📂 `assets/` — screenshot, banner, log artefak
+- ⚙️ **Android Open Source Project**: syncing, patching, scripting.
+- 🔧 **IT Support Fundamentals**: diagnostics, Linux maintenance, log analysis.
+- 🔍 **Reverse engineering**: observing without bias, decoding without ego.
+- 🛠 **Shell & Automation**: making boring things vanish in one-liners.
+- 🎮 **Terminal-based Games & Interfaces**: because even a console deserves play.
 
 ---
 
-## ⚙️ CLI Tools (Coming Soon)
+### 🌐 [My Visual Workspace → febrianporto.framer.wiki](https://febrianporto.framer.wiki)
 
-Semua skrip dan ekosistem CLI bakal dimasukkan ke dalam tools prefix `k-*`, seperti:
-
-| Tool        | Deskripsi Singkat                          |
-|-------------|---------------------------------------------|
-| `k-srch`    | Advanced repo/component searcher            |
-| `k-ea`      | Enhanced AOSP Assistant (local AI helper)   |
-| `k-sync`    | Wrapper untuk repo sync + monitoring        |
-| `k-net`     | Network diagnosis CLI tools                 |
-
-> All written in Bash or Python, depending on the madness level.
+That page is the lens to my thoughts, the canvas to my experiments.
 
 ---
 
-## 🧠 Filosofi
+### 🎞️ Motion Playground (coming soon)
 
-> “Kode terbaik belum tentu yang jadi. Tapi yang dipahami ulang, dan dibangun ulang.”
-
-Ini bukan showcase. Ini **lab pribadi.**  
-Semua commit di repo ini: bukti upaya, bukan hasil jadi.
+If you're reading this in a terminal that supports animation (like `glow`), you might feel some life in the lines. If not — imagine.  
+Soon: custom ASCII UI tools, a loading game, and more weird CLI interfaces.
 
 ---
 
-## 🖼️ Animasi & Banner
+### 📁 Structure
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00FFCC&center=true&vCenter=true&width=420&lines=Building+AOSP.;Writing+Scripts.;Troubleshooting+Daily.;Learning+by+Breaking.">
-</p>
-
----
-
-## 🧭 Roadmap (2025)
-
-- [ ] Setup clean AOSP environment
-- [ ] Bangun tool `k-srch` & `k-sync`
-- [ ] Repositori modular AOSP scripts
-- [ ] Publish CLI logs as Markdown docs
+```
+aosp/
+├── android/       # custom AOSP syncs, patches, manifests
+├── scripts/       # automation scripts: git, setup, debug
+├── support/       # logs, notes, reports from IT support ops
+├── notes/         # markdowns, diagrams, flowcharts
+├── .github/       # workflows, CI/CD (optional)
+└── README.md      # you're here
+```
 
 ---
 
-## 📂 No Branding, No Identity
+### 💭 Philosophy
 
-Nama gak penting.  
-Yang penting: hasil kerja bisa dimengerti, dilacak, dan ditingkatkan.
+Not everything has to wear a name.  
+Sometimes, the best work is invisible, reproducible, and free of ego.
 
 ---
 
-<p align="center"><i>“Yang abadi bukan siapa kita. Tapi jejak yang kita tinggalkan.”</i></p>
+> Or maybe just `cd` around, touch a few thoughts, and `cat` your own future.
