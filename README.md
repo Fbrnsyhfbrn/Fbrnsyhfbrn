@@ -1,55 +1,70 @@
-# aosp
+<h1 align="center">Hi 👋, I'm H. Febriansyah</h1>
+<p align="center"><i>
+A self-taught tinkerer, builder, and digital sketcher.<br/>
+Some call it freelance, some call it design, some call it madness.<br/>
+I call it a long walk from what I used to be.
+</i></p>
 
-> a workspace for experiments, automation, and bare-metal digital craft.
-> anonymous, but not empty. this is where silence becomes syntax.
+<p align="center">
+  <a href="https://febrianporto.framer.wiki/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-My%20Portfolio-blueviolet?style=for-the-badge&logo=framer" alt="Portfolio Badge" />
+  </a>
+</p>
 
----
-
-**Hi, I’m Hanafi Febriansyah.**  
-But this space isn’t about my name — it’s about _doing_, _breaking_, and _rebuilding_ things in silence.
-
-This repository hosts the trail of experiments I’ve done around:
-
-- ⚙️ **Android Open Source Project**: syncing, patching, scripting.
-- 🔧 **IT Support Fundamentals**: diagnostics, Linux maintenance, log analysis.
-- 🔍 **Reverse engineering**: observing without bias, decoding without ego.
-- 🛠 **Shell & Automation**: making boring things vanish in one-liners.
-- 🎮 **Terminal-based Games & Interfaces**: because even a console deserves play.
-
----
-
-### 🌐 [My Visual Workspace → febrianporto.framer.wiki](https://febrianporto.framer.wiki)
-
-That page is the lens to my thoughts, the canvas to my experiments.
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+</p>
 
 ---
 
-### 🎞️ Motion Playground (coming soon)
+### 🛤️ A Path Through Time
 
-If you're reading this in a terminal that supports animation (like `glow`), you might feel some life in the lines. If not — imagine.  
-Soon: custom ASCII UI tools, a loading game, and more weird CLI interfaces.
+> “Once, I opened my laptop just to watch movies.  
+> Now, I tear through its system.  
+> Once, I played with Figma files.  
+> Now, I wire up the logic behind every animation.”
 
----
-
-### 📁 Structure
-
-```
-aosp/
-├── android/       # custom AOSP syncs, patches, manifests
-├── scripts/       # automation scripts: git, setup, debug
-├── support/       # logs, notes, reports from IT support ops
-├── notes/         # markdowns, diagrams, flowcharts
-├── .github/       # workflows, CI/CD (optional)
-└── README.md      # you're here
-```
+This repository is not a trophy case.  
+It’s a **memory bank** — of things that clicked, and things that broke until they made sense.
 
 ---
 
-### 💭 Philosophy
+### 🛠 Languages & Tools I Touch
 
-Not everything has to wear a name.  
-Sometimes, the best work is invisible, reproducible, and free of ego.
+<p align="left">
+  <a href="https://developer.android.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+  </a>
+  <a href="https://archlinux.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  </a>
+  <a href="https://vitejs.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="vite" width="40" height="40"/>
+  </a>
+  <a href="https://framer.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
-> Or maybe just `cd` around, touch a few thoughts, and `cat` your own future.
+### 🔗 Explore More
+
+> Built with coffee, late nights, and untamed curiosity.  
+> See what I’ve been working on at [**febrianporto.framer.wiki**](https://febrianporto.framer.wiki/)
+
+---
+
+Need a version in **Bahasa Indonesia** juga? Bisa gue bikinin. Mau tambahin section kaya featured projects, contributions, atau pinned repos juga tinggal bilang 🙌
