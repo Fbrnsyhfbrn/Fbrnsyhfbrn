@@ -31,7 +31,7 @@ It’s a **memory bank** — of things that clicked, and things that broke until
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=FF5C8D&center=true&vCenter=true&width=420&lines=Self-taught+freelancer.;UX+explorer+in+progress.;Built+with+trial+and+error.;Designing+for+humans.;Junior UI/UX.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=FF5C8D&center=true&vCenter=true&width=420&lines=Self-taught+freelancer.;UX+explorer+in+progress.;Built+with+trial+and+error.;Designing+for+humans.">
 </p>
 
 
