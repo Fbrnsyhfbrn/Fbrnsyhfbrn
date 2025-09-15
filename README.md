@@ -22,11 +22,11 @@ I call it a long walk from what I used to be.
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 </p>
----
+#
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=FF5C8D&center=true&vCenter=true&width=420&lines=Self-taught+freelancer.;UX+explorer+in+progress.;Built+with+trial+and+error.;Designing+for+humans.">
 </p>
----
+#
 
 ### My Spotify Recently 
 
@@ -75,10 +75,15 @@ I call it a long walk from what I used to be.
 </div>
 ---
 
-### 🔗 Explore More
+### My Contributor And Achievement 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fbrnsyhfbrn/Fbrnsyhfbrn/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fbrnsyhfbrn/Fbrnsyhfbrn/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Fbrnsyhfbrn/Fbrnsyhfbrn/output/pacman-contribution-graph.svg">
+</picture>
 
-> Built with coffee, late nights, and untamed curiosity.  
-> See what I’ve been working on at [**febrianporto.framer.wiki**](https://febrianporto.framer.wiki/)
+###
 
----
+<img src="https://raw.githubusercontent.com/Fbrnsyhfbrn/Fbrnsyhfbrn/output/snake.svg" alt="Snake animation" />
 
+###
