@@ -22,6 +22,11 @@ I call it a long walk from what I used to be.
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 </p>
+---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=FF5C8D&center=true&vCenter=true&width=420&lines=Self-taught+freelancer.;UX+explorer+in+progress.;Built+with+trial+and+error.;Designing+for+humans.">
+</p>
+---
 
 ### My Spotify Recently 
 
@@ -31,7 +36,7 @@ I call it a long walk from what I used to be.
   </a>
 </div>
 
-
+### My current statistics
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fbrnsyhfbrn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=Fbrnsyhfbrn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -39,9 +44,6 @@ I call it a long walk from what I used to be.
 
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=FF5C8D&center=true&vCenter=true&width=420&lines=Self-taught+freelancer.;UX+explorer+in+progress.;Built+with+trial+and+error.;Designing+for+humans.">
-</p>
 
 
 ### 🛠 Languages & Tools I Touch
