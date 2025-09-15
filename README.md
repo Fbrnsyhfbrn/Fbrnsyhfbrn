@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm H. Febriansyah</h1>
-<p align="left"><i>
+<p align="center"><i>
 A self-taught tinkerer, builder, and digital sketcher.<br/>
 Some call it freelance, some call it design, some call it madness.<br/>
 I call it a long walk from what I used to be.
@@ -19,7 +19,7 @@ I call it a long walk from what I used to be.
 </p>
 
 
-<p align="left">
+<p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 </p>
 
