@@ -11,9 +11,11 @@ I call it a long walk from what I used to be.
   </a>
 </p>
 
+
 <p align="center">
-  <a href="https://febrianporto.framer.wiki/" target="_blank">
-    <https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg
+  <a href="https://hanafifebriansyah-portofolio.netlify.app/" target="_blank">
+https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg
+  </a>
 </p>
 
 
