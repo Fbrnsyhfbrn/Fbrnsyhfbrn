@@ -12,6 +12,12 @@ I call it a long walk from what I used to be.
 </p>
 
 <p align="center">
+  <a href="https://febrianporto.framer.wiki/" target="_blank">
+    <https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg
+</p>
+
+
+<p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 </p>
 
