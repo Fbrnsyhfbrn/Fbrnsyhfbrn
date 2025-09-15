@@ -23,18 +23,9 @@ I call it a long walk from what I used to be.
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 </p>
 
----
-<br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fbrnsyhfbrn/Fbrnsyhfbrn/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fbrnsyhfbrn/Fbrnsyhfbrn/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Fbrnsyhfbrn/Fbrnsyhfbrn/output/pacman-contribution-graph.svg">
-</picture>
 
-###
-
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/31au6sf7ikm5exdyzx42qotehus4">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31au6sf7ikm5exdyzx42qotehus4&count=5&unique=true" alt="Spotify recently played"  />
   </a>
