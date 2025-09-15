@@ -1,30 +1,30 @@
 <h1 align="center">Hi 👋, I'm H. Febriansyah</h1>
-<p align="center"><i>
+<p align="left"><i>
 A self-taught tinkerer, builder, and digital sketcher.<br/>
 Some call it freelance, some call it design, some call it madness.<br/>
 I call it a long walk from what I used to be.
 </i></p>
 
-<p align="center">
+<p align="left">
   <a href="https://febrianporto.framer.wiki/" target="_blank">
     <img src="https://img.shields.io/badge/Visit-My%20Portfolio-blueviolet?style=for-the-badge&logo=framer" alt="Portfolio Badge" />
   </a>
 </p>
 
 
-<p align="center">
+<p align="left">
   <a href="https://hanafifebriansyah-portofolio.netlify.app/" target="_blank">
  <img src="https://img.shields.io/badge/Visit-New%20Portfolio-blueviolet?style=for-the-badge&logo=react" alt="Portfolio Badge" />
   </a>
 </p>
 
 
-<p align="center">
+<p align="left">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=FF5C8D&center=true&vCenter=true&width=420&lines=Self-taught+freelancer.;UX+explorer+in+progress.;Built+with+trial+and+error.;Designing+for+humans.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=FF5C8D&center=true&vCenter=true&width=420&lines=Self-taught+freelancer.;Frontend+Developer.;Android+Developer.;Builder.;Animation.;Rigger.;Coder.;Web+Development.;UX+explorer+in+progress.;Built+with+trial+and+error.;Designing+for+humans.">
 </p>
 
 ### My Spotify Recently 
@@ -83,9 +83,5 @@ I call it a long walk from what I used to be.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fbrnsyhfbrn/Fbrnsyhfbrn/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Fbrnsyhfbrn/Fbrnsyhfbrn/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/Fbrnsyhfbrn/Fbrnsyhfbrn/output/snake.svg" alt="Snake animation" />
 
 ###
