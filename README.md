@@ -5,14 +5,14 @@ Some call it freelance, some call it design, some call it madness.<br/>
 I call it a long walk from what I used to be.
 </i></p>
 
-<p align="left">
+<p align="center">
   <a href="https://febrianporto.framer.wiki/" target="_blank">
     <img src="https://img.shields.io/badge/Visit-My%20Portfolio-blueviolet?style=for-the-badge&logo=framer" alt="Portfolio Badge" />
   </a>
 </p>
 
 
-<p align="left">
+<p align="center">
   <a href="https://hanafifebriansyah-portofolio.netlify.app/" target="_blank">
  <img src="https://img.shields.io/badge/Visit-New%20Portfolio-blueviolet?style=for-the-badge&logo=react" alt="Portfolio Badge" />
   </a>
@@ -26,7 +26,7 @@ I call it a long walk from what I used to be.
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=FF5C8D&center=true&vCenter=true&width=420&lines=Self-taught+freelancer.;Frontend+Developer.;Android+Developer.;Builder.;Animation.;Rigger.;Coder.;Web+Development.;UX+explorer+in+progress.;Built+with+trial+and+error.;Designing+for+humans.">
 </p>
-
+<i></i>
 ### My Spotify Recently 
 
 <div align="left">
