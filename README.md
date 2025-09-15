@@ -14,7 +14,7 @@ I call it a long walk from what I used to be.
 
 <p align="center">
   <a href="https://hanafifebriansyah-portofolio.netlify.app/" target="_blank">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+ <img src="https://img.shields.io/badge/Visit-My%20Portfolio-blueviolet?style=for-the-badge&logo=react" alt="Portfolio Badge" />
   </a>
 </p>
 
