@@ -23,7 +23,7 @@ I call it a long walk from what I used to be.
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 </p>
 
-# My Spotify Recently 
+### My Spotify Recently 
 
 <div align="left">
   <a href="https://open.spotify.com/user/31au6sf7ikm5exdyzx42qotehus4">
@@ -31,7 +31,6 @@ I call it a long walk from what I used to be.
   </a>
 </div>
 
-###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fbrnsyhfbrn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
