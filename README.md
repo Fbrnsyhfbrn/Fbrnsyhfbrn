@@ -81,8 +81,4 @@ I call it a long walk from what I used to be.
 
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Fbrnsyhfbrn/Fbrnsyhfbrn/output/pacman-contribution-graph-dark.svg">
 
-
-  <img src="https://raw.githubusercontent.com/Fbrnsyhfbrn/Fbrnsyhfbrn/output/snake.svg" alt="Snake animation" />
-  
-
 ###
