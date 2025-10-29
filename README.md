@@ -94,9 +94,6 @@ I call it a long walk from what I used to be.
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> 
   </a> 
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-    </a> 
   <a href="https://www.coreldraw.com/en/?srsltid=AfmBOoqSxyRsNlv93a5pfeZPJaqoFfTxNXZpk959WavDVHaiCO0437U2" target="_blank" rel="noreferrer"> 
   <img src="https://www.svgrepo.com/show/508792/corel-draw.svg" alt="corel" width="40" height="40"/> 
   </a> 
