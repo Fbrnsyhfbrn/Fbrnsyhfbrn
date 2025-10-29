@@ -1,4 +1,4 @@
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/b6672e7f-d415-41d8-8bee-24dd8521b5c8" /><h1 align="center">Hi 👋, I'm H. Febriansyah</h1>
+Hi 👋, I'm H. Febriansyah</h1>
 <p align="center"><i>
 A self-taught tinkerer, builder, and digital sketcher.<br/>
 Some call it freelance, some call it design, some call it madness.<br/>
