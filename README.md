@@ -83,7 +83,7 @@ I call it a long walk from what I used to be.
   <a href="https://golang.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
 </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+  <a href="https://github.com/Fbrnsyhfbrn/spicetify-template/blob/main/spotify%20template.json" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
 </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
