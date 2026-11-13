@@ -1,7 +1,6 @@
-# H. Febriansyah
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=130&section=header&text=H.%20FEBRIANSYAH&fontSize=36&fontColor=ffffff&fontAlignY=45&desc=DESIGN%20%2F%20CODE%20%2F%20SYSTEMS&descSize=11&descAlignY=68&descColor=888888" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=130&section=header&text=%20Febriansyah&fontSize=36&fontColor=ffffff&fontAlignY=45&desc=DESIGN%20%2F%20CODE%20%2F%20SYSTEMS&descSize=11&descAlignY=68&descColor=888888" width="100%" />
 </p>
 
 <p align="center">
@@ -28,6 +27,12 @@
   Built through curiosity and experimentation.
 
 ```
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/fbrnsyhfbrn/fbrnsyhfbrn/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
 ### TECHNOLOGIES
 
