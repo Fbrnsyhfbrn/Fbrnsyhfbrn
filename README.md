@@ -32,12 +32,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,androidstudio,apple,javascript,react,bash,arch&theme=dark" />
 </p>
-###
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fbrnsyhfbrn" alt="fbrnsyhfbrn" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fbrnsyhfbrn&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="fbrnsyhfbrn" /></p>
 <p align="center">
