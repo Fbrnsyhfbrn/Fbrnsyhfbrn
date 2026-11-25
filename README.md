@@ -33,7 +33,7 @@
   <img src="https://skillicons.dev/icons?i=ts,androidstudio,apple,javascript,react,bash,arch&theme=dark" />
 </p>
 ###
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fbrnsyhfbrn&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
   <sub>BUILDING THINGS. BREAKING THINGS. LEARNING.</sub>
 </p>
